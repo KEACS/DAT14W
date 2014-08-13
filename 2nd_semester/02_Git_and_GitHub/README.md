@@ -17,7 +17,7 @@ Git Documentation (chp 1 & 2): http://git-scm.com/doc
 
 * ### Exercises ###
   * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)
-  * [02 Create a Repository](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
+  * [02 Create an excercise repository on github](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
 
 * ### Video Tutorials ###
   * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4&feature=kp)  

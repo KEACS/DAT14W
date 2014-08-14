@@ -16,7 +16,7 @@ Git Documentation (chp 1 & 2): http://git-scm.com/doc
 ### Suplemetary ###
 Git Tutorial: http://www.vogella.com/tutorials/Git/article.html
 
-* ### Exercises###
+* ### Exercises ###
   * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)
   * [02 Create an excercise repository on github](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
 

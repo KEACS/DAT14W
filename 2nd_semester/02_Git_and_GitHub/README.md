@@ -11,10 +11,11 @@ And you will be able to work together with your group on the same files.
 
 
 ## Materials ##
-* ### Curriculum ###  
+* ### Curriculum ###   
 Git Documentation (chp 1 & 2): http://git-scm.com/doc   
-### Suplemetary ###
-Git Tutorial: http://www.vogella.com/tutorials/Git/article.html
+#### Suplemetary ####   
+Git Tutorial: http://www.vogella.com/tutorials/Git/article.html   
+dd
 
 * ### Exercises ###
   * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)

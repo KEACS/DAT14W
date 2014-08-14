@@ -12,14 +12,14 @@ And you will be able to work together with your group on the same files.
 
 ## Materials ##
 ### Curriculum ###
-Git Documentation (chp 1 & 2): http://git-scm.com/doc   
+  * Git Documentation (chp 1 & 2): http://git-scm.com/doc   
 #### Suplemetary ####
-Git Tutorial: http://www.vogella.com/tutorials/Git/article.html
+  * Git Tutorial: http://www.vogella.com/tutorials/Git/article.html
+#### Video Tutorials ####
+  * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4&feature=kp)  
+  * [Buckyroom.org on git](https://buckysroom.org/videos.php?cat=70)
 
 ### Exercises ###
   * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)
   * [02 Create an excercise repository on github](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
 
-### Video Tutorials ###
-  * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4&feature=kp)  
-  * [Buckyroom.org on git](https://buckysroom.org/videos.php?cat=70)

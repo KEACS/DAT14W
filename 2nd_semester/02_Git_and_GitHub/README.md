@@ -13,8 +13,10 @@ And you will be able to work together with your group on the same files.
 ## Materials ##
 ### Curriculum ###
   * Git Documentation (chp 1 & 2): http://git-scm.com/doc   
+
 #### Suplemetary ####
-  * Git Tutorial: http://www.vogella.com/tutorials/Git/article.html
+  * Git Tutorial: http://www.vogella.com/tutorials/Git/article.html   
+
 #### Video Tutorials ####
   * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4&feature=kp)  
   * [Buckyroom.org on git](https://buckysroom.org/videos.php?cat=70)

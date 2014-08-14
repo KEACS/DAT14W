@@ -13,7 +13,7 @@ And you will be able to work together with your group on the same files.
 ## Materials ##
 * ### Curriculum ###
 Git Documentation (chp 1 & 2): http://git-scm.com/doc   
-#### Suplemetary ####
+  * #### Suplemetary ####
 Git Tutorial: http://www.vogella.com/tutorials/Git/article.html
 
 * ### Exercises ###

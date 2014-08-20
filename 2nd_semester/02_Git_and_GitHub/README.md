@@ -22,6 +22,5 @@ And you will be able to work together with your group on the same files.
   * [Buckyroom.org on git](https://buckysroom.org/videos.php?cat=70)
 
 ### Exercises ###
-  * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)
-  * [02 Create an excercise repository on github](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
+
 

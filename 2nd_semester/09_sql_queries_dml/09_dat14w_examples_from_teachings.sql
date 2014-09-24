@@ -11,21 +11,8 @@ SELECT
 FROM 
 	Staff; 
 
-
-
-
-
-
-
-
-
-
 -- WHERE
 SELECT * FROM Staff WHERE salary BETWEEN 9000 AND 14000;
-
-
-
-
 
 -- LIKE % _
 SELECT * FROM PropertyForRent WHERE street LIKE '%H______';
@@ -102,32 +89,5 @@ WHERE branchNo = 'B0010';
 -- DELETE
 DELETE FROM Branch
 WHERE branchNo = 'B007';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

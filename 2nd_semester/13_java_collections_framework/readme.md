@@ -23,4 +23,4 @@ Bjp: Chp 11.
   
 ### Exercises ###
 
-
+* https://github.com/KEACS/DAT14W/blob/master/2nd_semester/13_java_collections_framework/EX_Collections.java

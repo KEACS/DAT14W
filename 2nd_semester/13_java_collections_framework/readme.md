@@ -2,11 +2,17 @@
 ===============
 
 ## Overview ##
-
+Today we will be working with the Java Collection Framework. You already have been using part of this Framework, when working with ArrayLists. Now we go on and work with the rest of the lists in the Collection.   
+When working with the Java Collection Framework you work with Interfaces, so this is a big part of the topic. Today we more specific look at LinkedList, Collection, List and ArrayList. In Next class we work on Sets and Maps
 
 
 ## Objectives ##
-
+After this class you should be able to.
+* Create and use an Interface
+* Understand the Collection and List Interface
+* Know the difference between ArrayList and LinkedList
+  * and know when to use the one or the other
+* Understand the benefits of that ArrayList and LinkedList implements the List interface
 
 ## Materials ##
  

@@ -1,10 +1,6 @@
-package exercise.integers;
-
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class ExerciseNumbers
 {
@@ -23,11 +19,7 @@ public class ExerciseNumbers
 		// 2. How many number in total?
 
 		// Finish the program
-		List<Integer> numbers = convertArrayToList();
-
-		Set<Integer> hashSet = new HashSet<Integer>(numbers);
-		System.out.println("Number of integers that are unique: " + hashSet.size());
-		System.out.println("Total number of integers: " + numbers.size());
+		
 	}
 
 	/**

@@ -27,8 +27,7 @@ public class ExerciseSetOperations
 		System.out.println(allThatAreInBoth(set1, set2)));
 	}
 	private static List<Integer> uniqueFromBoth(List<Integer> set1, List<Integer> set2)
-	{
-		
+	{		
 		// write code that returns all unique elements from set1 and set2 when combined
 		return null;
 	}

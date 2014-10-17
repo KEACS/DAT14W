@@ -19,7 +19,28 @@ public class ExerciseTower
 	 */
 	public static void main(String[] args)
 	{
-		nestedForLoop(7);
+		//nestedForLoop(7);
+		reverse(7);
+	}
+
+	private static void reverse(int i)
+	{
+		if(i == 1)
+		{
+			System.out.println("*");
+		}
+		else
+		{
+			for (int star = 1; star <= i; star++)
+			{
+				System.out.print("*");
+			}
+			System.out.println();
+			
+			reverse(i-1);
+			
+		}
+		
 	}
 
 	private static void nestedForLoop(int lines)

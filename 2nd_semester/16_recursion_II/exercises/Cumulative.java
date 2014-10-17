@@ -9,8 +9,22 @@ public class Cumulative
 	 */
 	public static void main(String[] args)
 	{
-		System.out.println(cumulativeSum(5));
+		//System.out.println(cumulativeSum(10));
+		System.out.println(cumulativeRecursive(2));
+	}
 
+	private static int cumulativeRecursive(int i)
+	{
+		int sum = 0;
+		if (i == 1)
+		{
+			sum = 1;
+		}
+		else
+		{
+			sum = i + cumulativeRecursive(i-1);	
+		}
+		return sum;
 	}
 
 	private static int cumulativeSum(int i)

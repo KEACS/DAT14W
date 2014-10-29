@@ -26,7 +26,7 @@ public class ArrayList<E>
 		return size;
 	}
 
-	public int get(int index)
+	public E get(int index)
 	{
 		return elementData[index];
 	}
@@ -50,11 +50,11 @@ public class ArrayList<E>
 		}
 	}
 
-	public int indexOf(int value)
+	public int indexOf(E value)
 	{
 		for (int i = 0; i < size; i++)
 		{
-			if (elementData[i] == value)
+			if (elementData[i].equals(value))
 			{
 				return i;
 			}
@@ -64,7 +64,7 @@ public class ArrayList<E>
 
 	// pre: size <= elementData.length
 	// post: adds a value to the end of the list
-	public void add(int value)
+	public void add(E value)
 	{
 		checkCapacity(size + 1);
 		elementData[size] = value;
@@ -100,7 +100,7 @@ public class ArrayList<E>
 		}
 	}
 
-	public void add(int index, int value)
+	public void add(int index, E value)
 	{
 		for (int i = size; i >= index + 1; i--)
 		{

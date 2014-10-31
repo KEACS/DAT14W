@@ -11,5 +11,8 @@ public class Exercise2MixingNodes2
       
       // Order these nodes in a single list
       // Follow the same principle
+      
+      // extra: 
+      // ListNode list = new ListNode(6, new ListNode(3, new ListNode(2, new ListNode(1))));
    }
 }

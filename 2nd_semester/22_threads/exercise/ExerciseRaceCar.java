@@ -2,18 +2,18 @@ package chrk.racecar.clbo;
 
 public class ExerciseRaceCar
 {
-	private int finish;
+	private int labs;
 	private String name;
 	
-	public ExerciseRaceCar(int finish, String name)
+	public ExerciseRaceCar(int labs, String name)
 	{
-		this.finish = finish;
+		this.labs = labs;
 		this.name = name;
 	}
 	
 	public void run()
 	{
-		for(int i = 1; i <= finish; i++)
+		for(int i = 1; i <= labs; i++)
 		{	
 			System.out.println(name + " lab " + i);
 		}
